@@ -1,0 +1,114 @@
+.body {
+  margin: 0;
+}
+.container {
+  margin: 0px 100px;
+}
+.header {
+  background-image: url(img/13.jpg);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.menu {
+  padding-top: 30px;
+  display: flex;
+  align-items: center;
+}
+.nav-item {
+  color: #f6f2f2;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 20px;
+  margin-right: 25px;
+}
+.logo {
+  color: #f6f2f2;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 28px;
+  margin-right: 165px;
+}
+.text {
+  color: #f4ebeb;
+  font-family: monospace;
+  font-size: 25px;
+  text-align: center;
+}
+.p {
+  box-sizing: border-box;
+  text-align: center;
+  width: 15%;
+  height: 10%;
+  border: 1.5px solid rgb(243, 240, 240);
+}
+.e {
+  box-sizing: border-box;
+  text-align: center;
+  width: 25%;
+  height: 10%;
+  border: 1.5px solid black;
+}
+.t {
+  box-sizing: border-box;
+  text-align: center;
+  width: 25%;
+  height: 10%;
+  border: 1.5px solid black;
+}
+
+.i {
+  box-sizing: border-box;
+  text-align: center;
+  width: 20%;
+  height: 10%;
+  border: 1.5px solid black;
+}
+
+.y {
+  background-color: rgb(253, 204, 212);
+}
+.pirates {
+  background-image: url(img/21.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 600px;
+  height: 380px;
+}
+.forest {
+  background-image: url(img/2.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 600px;
+  height: 380px;
+}
+.key {
+  background-image: url(img/19.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 600px;
+  height: 380px;
+}
+.comments {
+  background-color: rgb(253, 204, 212);
+}
+.subsubscription {
+  background-color: rgb(250, 166, 180);
+}
+.m {
+  box-sizing: border-box;
+  text-align: center;
+  width: 20%;
+  height: 10%;
+  border: 1.5px solid black;
+}
+.c {
+  box-sizing: border-box;
+  text-align: center;
+  width: 20%;
+  height: 10%;
+  border: 1.5px solid black;
+}
+.q {
+  background-color: rgb(253, 204, 212);
+}
