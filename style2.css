@@ -16,6 +16,8 @@
   font-weight: 500;
   font-size: 14px;
   margin-right: 25px;
+  font-family: monospace;
+  font-size: 20px;
 }
 .logo {
   color: #0a0909;
@@ -23,10 +25,30 @@
   font-weight: 500;
   font-size: 25px;
   margin-right: 165px;
+  font-family: monospace;
+  font-size: 20px;
 }
 .re {
   background-color: rgb(253, 204, 212);
 }
 .g {
   background-color: rgb(253, 204, 212);
+  text-align: center;
+}
+.rt {
+  text-align: center;
+  font-family: monospace;
+  font-size: 15px;
+}
+.a {
+  text-align: left;
+  font-family: monospace;
+  font-size: 15px;
+  margin-left: 2.7%;
+}
+.tu {
+  margin-left: 2.7%;
+}
+.j {
+  text-align: center;
 }
